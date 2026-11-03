@@ -1,0 +1,5 @@
+Como se corre:
+
+- Abrir terminal: Boton Windows + x
+- LLegar a la carpeta
+- Poner linea con fecha de inicio y termino: python backtester_multiwhale.py --start 2026-04-21 --end 2026-04-28

@@ -1,0 +1,645 @@
+{
+  "version": 1,
+  "bot": "multi",
+  "all_symbols": [
+    "SKYAI/USDT:USDT",
+    "BASED/USDT:USDT",
+    "SPK/USDT:USDT",
+    "CHIP/USDT:USDT",
+    "KAT/USDT:USDT",
+    "ORCA/USDT:USDT",
+    "LAB/USDT:USDT",
+    "BSB/USDT:USDT",
+    "LDO/USDT:USDT",
+    "RAVE/USDT:USDT",
+    "HYPER/USDT:USDT",
+    "PIPPIN/USDT:USDT",
+    "ZBT/USDT:USDT",
+    "PENGU/USDT:USDT",
+    "PRL/USDT:USDT"
+  ],
+  "decimales": {
+    "RAVE/USDT:USDT": {
+      "px": 5,
+      "qty": 1,
+      "tick": 1e-05
+    },
+    "SKYAI/USDT:USDT": {
+      "px": 5,
+      "qty": 1,
+      "tick": 1e-05
+    },
+    "BASED/USDT:USDT": {
+      "px": 4,
+      "qty": 1,
+      "tick": 0.0001
+    },
+    "SPK/USDT:USDT": {
+      "px": 5,
+      "qty": 1,
+      "tick": 1e-05
+    },
+    "CHIP/USDT:USDT": {
+      "px": 5,
+      "qty": 1,
+      "tick": 1e-05
+    },
+    "KAT/USDT:USDT": {
+      "px": 5,
+      "qty": 1,
+      "tick": 1e-05
+    },
+    "ORCA/USDT:USDT": {
+      "px": 3,
+      "qty": 0,
+      "tick": 0.001
+    },
+    "LAB/USDT:USDT": {
+      "px": 5,
+      "qty": 1,
+      "tick": 1e-05
+    },
+    "BSB/USDT:USDT": {
+      "px": 5,
+      "qty": 1,
+      "tick": 1e-05
+    },
+    "LDO/USDT:USDT": {
+      "px": 4,
+      "qty": 0,
+      "tick": 0.0001
+    },
+    "HYPER/USDT:USDT": {
+      "px": 4,
+      "qty": 1,
+      "tick": 0.0001
+    },
+    "PIPPIN/USDT:USDT": {
+      "px": 5,
+      "qty": 1,
+      "tick": 1e-05
+    },
+    "ZBT/USDT:USDT": {
+      "px": 5,
+      "qty": 1,
+      "tick": 1e-05
+    },
+    "PENGU/USDT:USDT": {
+      "px": 6,
+      "qty": 1,
+      "tick": 1e-06
+    },
+    "PRL/USDT:USDT": {
+      "px": 4,
+      "qty": 1,
+      "tick": 0.0001
+    }
+  },
+  "perfil": {
+    "RAVE/USDT:USDT": {
+      "cap": 0.03,
+      "sl": 0.03,
+      "tp": 0.04,
+      "umb": 0.34,
+      "_meta": {
+        "source": "scout",
+        "fecha": "2026-04-26",
+        "atr_pct": 1.073,
+        "volumen_m": 71.4
+      }
+    },
+    "SKYAI/USDT:USDT": {
+      "cap": 0.04,
+      "sl": 0.0186,
+      "tp": 0.0279,
+      "umb": 0.31
+    },
+    "BASED/USDT:USDT": {
+      "cap": 0.03,
+      "sl": 0.03,
+      "tp": 0.04,
+      "umb": 0.34
+    },
+    "SPK/USDT:USDT": {
+      "cap": 0.04,
+      "sl": 0.0234,
+      "tp": 0.0351,
+      "umb": 0.31,
+      "_meta": {
+        "source": "scout",
+        "fecha": "2026-04-24",
+        "atr_pct": 0.779,
+        "volumen_m": 124.5
+      }
+    },
+    "CHIP/USDT:USDT": {
+      "cap": 0.03,
+      "sl": 0.03,
+      "tp": 0.04,
+      "umb": 0.34,
+      "_meta": {
+        "source": "scout",
+        "fecha": "2026-04-24",
+        "atr_pct": 1.232,
+        "volumen_m": 124.6
+      }
+    },
+    "KAT/USDT:USDT": {
+      "cap": 0.02,
+      "sl": 0.03,
+      "tp": 0.04,
+      "umb": 0.38,
+      "_meta": {
+        "source": "scout",
+        "fecha": "2026-04-24",
+        "atr_pct": 2.427,
+        "volumen_m": 41.2
+      }
+    },
+    "ORCA/USDT:USDT": {
+      "cap": 0.02,
+      "sl": 0.03,
+      "tp": 0.04,
+      "umb": 0.38,
+      "_meta": {
+        "source": "scout",
+        "fecha": "2026-04-26",
+        "atr_pct": 1.694,
+        "volumen_m": 122.0
+      }
+    },
+    "LAB/USDT:USDT": {
+      "cap": 0.02,
+      "sl": 0.03,
+      "tp": 0.04,
+      "umb": 0.38,
+      "_meta": {
+        "source": "scout",
+        "fecha": "2026-04-26",
+        "atr_pct": 2.516,
+        "volumen_m": 40.2
+      }
+    },
+    "BSB/USDT:USDT": {
+      "cap": 0.02,
+      "sl": 0.03,
+      "tp": 0.04,
+      "umb": 0.38,
+      "_meta": {
+        "source": "scout",
+        "fecha": "2026-04-26",
+        "atr_pct": 2.484,
+        "volumen_m": 174.3
+      }
+    },
+    "LDO/USDT:USDT": {
+      "cap": 0.02,
+      "sl": 0.03,
+      "tp": 0.04,
+      "umb": 0.38,
+      "_meta": {
+        "source": "scout",
+        "fecha": "2026-04-26",
+        "atr_pct": 1.543,
+        "volumen_m": 11.6
+      }
+    },
+    "HYPER/USDT:USDT": {
+      "cap": 0.04,
+      "sl": 0.0125,
+      "tp": 0.0188,
+      "umb": 0.29,
+      "_meta": {
+        "source": "scout",
+        "fecha": "2026-04-26",
+        "atr_pct": 0.417,
+        "volumen_m": 27.6
+      }
+    },
+    "PIPPIN/USDT:USDT": {
+      "cap": 0.04,
+      "sl": 0.0162,
+      "tp": 0.0243,
+      "umb": 0.31,
+      "_meta": {
+        "source": "scout",
+        "fecha": "2026-04-26",
+        "atr_pct": 0.54,
+        "volumen_m": 7.1
+      }
+    },
+    "ZBT/USDT:USDT": {
+      "cap": 0.02,
+      "sl": 0.03,
+      "tp": 0.04,
+      "umb": 0.38,
+      "_meta": {
+        "source": "scout",
+        "fecha": "2026-04-26",
+        "atr_pct": 2.985,
+        "volumen_m": 71.6
+      }
+    },
+    "PENGU/USDT:USDT": {
+      "cap": 0.03,
+      "sl": 0.03,
+      "tp": 0.04,
+      "umb": 0.34,
+      "_meta": {
+        "source": "scout",
+        "fecha": "2026-04-26",
+        "atr_pct": 1.23,
+        "volumen_m": 17.7
+      }
+    },
+    "PRL/USDT:USDT": {
+      "cap": 0.02,
+      "sl": 0.03,
+      "tp": 0.04,
+      "umb": 0.38,
+      "_meta": {
+        "source": "scout",
+        "fecha": "2026-04-27",
+        "atr_pct": 2.208,
+        "volumen_m": 74.6
+      }
+    }
+  },
+  "removidos": {
+    "AXS/USDT:USDT": {
+      "fecha": "2026-04-24",
+      "motivos": [
+        "volumen_bajo($0.8M)",
+        "atr_bajo(0.118%)"
+      ],
+      "perfil_previo": {
+        "cap": 0.04,
+        "sl": 0.008,
+        "tp": 0.012,
+        "umb": 0.3
+      },
+      "decimales_previo": {
+        "px": 3,
+        "qty": 2,
+        "tick": 0.001
+      }
+    },
+    "SAND/USDT:USDT": {
+      "fecha": "2026-04-24",
+      "motivos": [
+        "volumen_bajo($1.2M)",
+        "atr_bajo(0.187%)"
+      ],
+      "perfil_previo": {
+        "cap": 0.04,
+        "sl": 0.008,
+        "tp": 0.012,
+        "umb": 0.3
+      },
+      "decimales_previo": {
+        "px": 4,
+        "qty": 1,
+        "tick": 0.0001
+      }
+    },
+    "1INCH/USDT:USDT": {
+      "fecha": "2026-04-24",
+      "motivos": [
+        "volumen_bajo($0.1M)",
+        "atr_bajo(0.068%)"
+      ],
+      "perfil_previo": {
+        "cap": 0.03,
+        "sl": 0.01,
+        "tp": 0.016,
+        "umb": 0.33
+      },
+      "decimales_previo": {
+        "px": 4,
+        "qty": 1,
+        "tick": 0.0001
+      }
+    },
+    "SUSHI/USDT:USDT": {
+      "fecha": "2026-04-24",
+      "motivos": [
+        "volumen_bajo($0.2M)",
+        "atr_bajo(0.085%)"
+      ],
+      "perfil_previo": {
+        "cap": 0.03,
+        "sl": 0.01,
+        "tp": 0.016,
+        "umb": 0.33
+      },
+      "decimales_previo": {
+        "px": 4,
+        "qty": 2,
+        "tick": 0.0001
+      }
+    },
+    "PEPE/USDT:USDT": {
+      "fecha": "2026-04-24",
+      "motivos": [
+        "atr_bajo(0.266%)"
+      ],
+      "perfil_previo": {
+        "cap": 0.02,
+        "sl": 0.01,
+        "tp": 0.016,
+        "umb": 0.4
+      },
+      "decimales_previo": {
+        "px": 7,
+        "qty": 0,
+        "tick": 1e-07
+      }
+    },
+    "APT/USDT:USDT": {
+      "fecha": "2026-04-24",
+      "motivos": [
+        "volumen_bajo($3.5M)",
+        "atr_bajo(0.176%)"
+      ],
+      "perfil_previo": {
+        "cap": 0.04,
+        "sl": 0.015,
+        "tp": 0.03,
+        "umb": 0.3
+      },
+      "decimales_previo": {
+        "px": 3,
+        "qty": 2,
+        "tick": 0.001
+      }
+    },
+    "GUN/USDT:USDT": {
+      "fecha": "2026-04-24",
+      "motivos": [
+        "volumen_bajo($3.7M)"
+      ],
+      "perfil_previo": {
+        "cap": 0.02,
+        "sl": 0.03,
+        "tp": 0.04,
+        "umb": 0.38
+      },
+      "decimales_previo": {
+        "px": 5,
+        "qty": 1,
+        "tick": 1e-05
+      }
+    },
+    "MANA/USDT:USDT": {
+      "fecha": "2026-04-26",
+      "motivos": [
+        "volumen_bajo($0.4M)",
+        "atr_bajo(0.151%)"
+      ],
+      "perfil_previo": {
+        "cap": 0.03,
+        "sl": 0.008,
+        "tp": 0.012,
+        "umb": 0.38
+      },
+      "decimales_previo": {
+        "px": 4,
+        "qty": 1,
+        "tick": 0.0001
+      }
+    },
+    "CAKE/USDT:USDT": {
+      "fecha": "2026-04-26",
+      "motivos": [
+        "volumen_bajo($0.3M)",
+        "atr_bajo(0.084%)"
+      ],
+      "perfil_previo": {
+        "cap": 0.04,
+        "sl": 0.008,
+        "tp": 0.012,
+        "umb": 0.29
+      },
+      "decimales_previo": {
+        "px": 3,
+        "qty": 2,
+        "tick": 0.001
+      }
+    },
+    "SUI/USDT:USDT": {
+      "fecha": "2026-04-26",
+      "motivos": [
+        "atr_bajo(0.145%)"
+      ],
+      "perfil_previo": {
+        "cap": 0.04,
+        "sl": 0.008,
+        "tp": 0.012,
+        "umb": 0.3
+      },
+      "decimales_previo": {
+        "px": 3,
+        "qty": 2,
+        "tick": 0.001
+      }
+    },
+    "PIEVERSE/USDT:USDT": {
+      "fecha": "2026-04-26",
+      "motivos": [
+        "volumen_bajo($3.1M)"
+      ],
+      "perfil_previo": {
+        "cap": 0.03,
+        "sl": 0.03,
+        "tp": 0.04,
+        "umb": 0.34
+      },
+      "decimales_previo": {
+        "px": 5,
+        "qty": 1,
+        "tick": 1e-05
+      }
+    },
+    "UAI/USDT:USDT": {
+      "fecha": "2026-04-26",
+      "motivos": [
+        "volumen_bajo($0.8M)"
+      ],
+      "perfil_previo": {
+        "cap": 0.02,
+        "sl": 0.03,
+        "tp": 0.04,
+        "umb": 0.38
+      },
+      "decimales_previo": {
+        "px": 5,
+        "qty": 1,
+        "tick": 1e-05
+      }
+    },
+    "UB/USDT:USDT": {
+      "fecha": "2026-04-26",
+      "motivos": [
+        "volumen_bajo($1.5M)"
+      ],
+      "perfil_previo": {
+        "cap": 0.02,
+        "sl": 0.03,
+        "tp": 0.04,
+        "umb": 0.38,
+        "_meta": {
+          "source": "scout",
+          "fecha": "2026-04-24",
+          "atr_pct": 2.645,
+          "volumen_m": 12.2
+        }
+      },
+      "decimales_previo": {
+        "px": 5,
+        "qty": 1,
+        "tick": 1e-05
+      }
+    },
+    "BIO/USDT:USDT": {
+      "fecha": "2026-04-26",
+      "motivos": [
+        "volumen_bajo($1.7M)",
+        "atr_bajo(0.220%)"
+      ],
+      "perfil_previo": {
+        "cap": 0.04,
+        "sl": 0.0249,
+        "tp": 0.0373,
+        "umb": 0.31,
+        "_meta": {
+          "source": "scout",
+          "fecha": "2026-04-24",
+          "atr_pct": 0.832,
+          "volumen_m": 9.6
+        }
+      },
+      "decimales_previo": {
+        "px": 5,
+        "qty": 1,
+        "tick": 1e-05
+      }
+    },
+    "STABLE/USDT:USDT": {
+      "fecha": "2026-04-26",
+      "motivos": [
+        "volumen_bajo($0.4M)",
+        "atr_bajo(0.197%)"
+      ],
+      "perfil_previo": {
+        "cap": 0.02,
+        "sl": 0.03,
+        "tp": 0.04,
+        "umb": 0.38,
+        "_meta": {
+          "source": "scout",
+          "fecha": "2026-04-24",
+          "atr_pct": 1.996,
+          "volumen_m": 9.5
+        }
+      },
+      "decimales_previo": {
+        "px": 5,
+        "qty": 1,
+        "tick": 1e-05
+      }
+    },
+    "GRIFFAIN/USDT:USDT": {
+      "fecha": "2026-04-26",
+      "motivos": [
+        "volumen_bajo($0.3M)",
+        "atr_bajo(0.267%)"
+      ],
+      "perfil_previo": {
+        "cap": 0.04,
+        "sl": 0.024,
+        "tp": 0.036,
+        "umb": 0.31,
+        "_meta": {
+          "source": "scout",
+          "fecha": "2026-04-24",
+          "atr_pct": 0.8,
+          "volumen_m": 6.4
+        }
+      },
+      "decimales_previo": {
+        "px": 5,
+        "qty": 1,
+        "tick": 1e-05
+      }
+    },
+    "MOVR/USDT:USDT": {
+      "fecha": "2026-04-26",
+      "motivos": [
+        "volumen_bajo($2.9M)"
+      ],
+      "perfil_previo": {
+        "cap": 0.02,
+        "sl": 0.03,
+        "tp": 0.04,
+        "umb": 0.38,
+        "_meta": {
+          "source": "scout",
+          "fecha": "2026-04-24",
+          "atr_pct": 2.376,
+          "volumen_m": 45.0
+        }
+      },
+      "decimales_previo": {
+        "px": 3,
+        "qty": 0,
+        "tick": 0.001
+      }
+    },
+    "PI/USDT:USDT": {
+      "fecha": "2026-04-26",
+      "motivos": [
+        "atr_bajo(0.210%)"
+      ],
+      "perfil_previo": {
+        "cap": 0.04,
+        "sl": 0.0124,
+        "tp": 0.0186,
+        "umb": 0.29,
+        "_meta": {
+          "source": "scout",
+          "fecha": "2026-04-26",
+          "atr_pct": 0.414,
+          "volumen_m": 6.1
+        }
+      },
+      "decimales_previo": {
+        "px": 4,
+        "qty": 1,
+        "tick": 0.0001
+      }
+    },
+    "MASK/USDT:USDT": {
+      "fecha": "2026-04-27",
+      "motivos": [
+        "volumen_bajo($2.1M)"
+      ],
+      "perfil_previo": {
+        "cap": 0.04,
+        "sl": 0.0224,
+        "tp": 0.0336,
+        "umb": 0.31,
+        "_meta": {
+          "source": "scout",
+          "fecha": "2026-04-26",
+          "atr_pct": 0.748,
+          "volumen_m": 13.5
+        }
+      },
+      "decimales_previo": {
+        "px": 4,
+        "qty": 0,
+        "tick": 0.0001
+      }
+    }
+  }
+}

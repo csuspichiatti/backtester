@@ -1,0 +1,19 @@
+# Credenciales y configuración real (nunca subir)
+config.env
+.env
+Keys/
+# Datos de ejecución
+*.db
+*.db-journal
+*.sqlite
+*.log
+logs/
+TRADES_*/
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+# Sistema
+desktop.ini
+Thumbs.db
